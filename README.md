@@ -8,10 +8,8 @@ Welcome to the Bookworms Book Club Landing Page project! This landing page was c
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Preview](#preview)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
